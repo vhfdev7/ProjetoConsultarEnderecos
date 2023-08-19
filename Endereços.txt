@@ -1,0 +1,29 @@
+[
+  {
+    "cep": "14706-060",
+    "logradouro": "Rua Guanabara",
+    "complemento": "",
+    "bairro": "Jardim Progresso",
+    "localidade": "Bebedouro",
+    "uf": "SP",
+    "ddd": 17
+  },
+  {
+    "cep": "14706-070",
+    "logradouro": "Rua Goiânia",
+    "complemento": "até 138/139",
+    "bairro": "Jardim Marajá",
+    "localidade": "Bebedouro",
+    "uf": "SP",
+    "ddd": 17
+  },
+  {
+    "cep": "14706-050",
+    "logradouro": "Rua Amazonas",
+    "complemento": "de 321/322 a 978/979",
+    "bairro": "Jardim Marajá",
+    "localidade": "Bebedouro",
+    "uf": "SP",
+    "ddd": 17
+  }
+]
