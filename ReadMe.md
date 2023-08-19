@@ -1,1 +1,1 @@
-Projeto de Java de um sistema de consulta de endereços pelo CEP consumindo uma API.
+Projeto Java de um sistema de consulta de endereços pelo CEP consumindo uma API.
